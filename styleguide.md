@@ -1397,9 +1397,11 @@ registering with
 
     // Good
     String value;
-    try {
+    try
+    {
         value = "The value is " + parse(foo);
-    } catch (BadException e) {
+    } catch (BadException e)
+    {
         throw new IllegalStateException(e);
     }
 
