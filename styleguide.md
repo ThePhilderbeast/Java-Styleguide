@@ -38,6 +38,9 @@ advantage to effectively tell the story to those reading the code.
 
 #### Indent style
 We use the "Allman style" ([1TBS](https://en.wikipedia.org/wiki/Indent_style#Allman_style)).
+
+where Braces are optional they are to be included
+
 Indent size is 4 columns.
 
     :::java
